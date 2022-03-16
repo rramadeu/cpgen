@@ -2,7 +2,7 @@ Package: cpgen
 Type: Package
 Title: Parallel Genomic Evaluations
 Version: 0.2.1
-Date: 2018-03-26
+Date: 2022-03-16
 Author: Claas Heuer
 Maintainer: Claas Heuer <claasheuer@googlemail.com>
 Description: Frequently used methods in genomic applications with emphasis on parallel computing.
